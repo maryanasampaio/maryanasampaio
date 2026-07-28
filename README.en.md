@@ -1,26 +1,26 @@
 <!--
   Banner: gerado dinamicamente com gradiente azul + preto (tema GitHub Dark).
   Se você criar um banner personalizado (PNG/SVG), salve em ./assets/banner.png
-  e troque a <img> abaixo por: <img src="./assets/banner.png" width="100%" alt="Maryana Sampaio - Desenvolvedora de Software" />
+  e troque a <img> abaixo por: <img src="./assets/banner.png" width="100%" alt="Maryana Sampaio - Software Developer" />
 -->
 <div align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:1F6FEB,100:58A6FF&height=210&section=header&text=Maryana%20Sampaio&fontSize=52&fontColor=F0F6FC&fontAlignY=34&animation=fadeIn&desc=Desenvolvedora%20de%20Software%20%7C%20Java%20%E2%80%A2%20Spring%20Boot%20%E2%80%A2%20React%20%E2%80%A2%20TypeScript&descSize=17&descAlignY=54"
-    alt="Maryana Sampaio — Desenvolvedora de Software"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:1F6FEB,100:58A6FF&height=210&section=header&text=Maryana%20Sampaio&fontSize=52&fontColor=F0F6FC&fontAlignY=34&animation=fadeIn&desc=Software%20Developer%20%7C%20Java%20%E2%80%A2%20Spring%20Boot%20%E2%80%A2%20React%20%E2%80%A2%20TypeScript&descSize=17&descAlignY=54"
+    alt="Maryana Sampaio — Software Developer"
   />
 </div>
 
 <div align="center">
 
-[![Português](https://img.shields.io/badge/🇧🇷_Português-1F6FEB?style=for-the-badge)](./README.md)
-[![English](https://img.shields.io/badge/🇺🇸_English-0D1117?style=for-the-badge)](./README.en.md)
+[![Português](https://img.shields.io/badge/🇧🇷_Português-0D1117?style=for-the-badge)](./README.md)
+[![English](https://img.shields.io/badge/🇺🇸_English-1F6FEB?style=for-the-badge)](./README.en.md)
 
 </div>
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-1F6FEB?style=for-the-badge&logo=linkedin&logoColor=F0F6FC)](https://linkedin.com/in/maryanasampaio)
-[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-58A6FF?style=for-the-badge&logo=vercel&logoColor=0D1117)](https://meu-portfolio-seven-theta.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-58A6FF?style=for-the-badge&logo=vercel&logoColor=0D1117)](https://meu-portfolio-seven-theta.vercel.app)
 [![Gmail](https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=58A6FF)](mailto:maryanacem.star2@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-8B949E?style=for-the-badge&logo=github&logoColor=0D1117)](https://github.com/maryanasampaio)
 
@@ -28,24 +28,24 @@
 
 ---
 
-## Olá, eu sou a Maryana Sampaio 👋
+## Hi, I'm Maryana Sampaio 👋
 
-Desenvolvedora de Software • Construindo aplicações web escaláveis com **Java**, **Spring Boot** e stacks modernas de front-end.
-
----
-
-## 💼 Sobre mim
-
-Desenvolvedora de Software com experiência no desenvolvimento e manutenção de aplicações web, atuando em todas as etapas do ciclo de desenvolvimento, desde a implementação até a publicação em produção. Tenho interesse em construir aplicações escaláveis utilizando **Java** e **Spring Boot**, além de experiência com tecnologias Front-end como **React** e **Angular**. Atualmente curso **Engenharia de Software** e estou sempre buscando aprender novas tecnologias e boas práticas de desenvolvimento.
-
-- 🏢 Desenvolvedora de Software na **Honda**
-- 🎓 Cursando **Engenharia de Software**
-- 🚀 Focada em **Backend Engineering** e arquiteturas escaláveis
-- 📫 Contato: **maryanacem.star2@gmail.com**
+Software Developer • Building scalable web applications with **Java**, **Spring Boot** and modern front-end stacks.
 
 ---
 
-## 🚀 Tecnologias
+## 💼 About me
+
+Software Developer with experience in developing and maintaining web applications, working across every stage of the development cycle — from implementation to production deployment. I'm passionate about building scalable applications with **Java** and **Spring Boot**, and I also work with front-end technologies such as **React** and **Angular**. Currently pursuing a **Software Engineering** degree, always looking to learn new technologies and development best practices.
+
+- 🏢 Software Developer at **Honda**
+- 🎓 Studying **Software Engineering**
+- 🚀 Focused on **Backend Engineering** and scalable architectures
+- 📫 Reach me at **maryanacem.star2@gmail.com**
+
+---
+
+## 🚀 Tech Stack
 
 **Backend**
 
@@ -59,7 +59,7 @@ Desenvolvedora de Software com experiência no desenvolvimento e manutenção de
   <img src="https://skillicons.dev/icons?i=react,angular,ts,js,html,css,tailwind&theme=dark" alt="React, Angular, TypeScript, JavaScript, HTML5, CSS3, Tailwind CSS" />
 </p>
 
-**Banco de Dados**
+**Databases**
 
 <p>
   <img src="https://skillicons.dev/icons?i=postgres,mysql&theme=dark" alt="PostgreSQL, MySQL" />
@@ -67,7 +67,7 @@ Desenvolvedora de Software com experiência no desenvolvimento e manutenção de
   <img src="https://img.shields.io/badge/SQL%20Server-1F6FEB?style=for-the-badge&logo=microsoftsqlserver&logoColor=F0F6FC" alt="SQL Server" />
 </p>
 
-**Ferramentas & DevOps**
+**Tools & DevOps**
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,postman,vscode&theme=dark" alt="Git, GitHub, GitHub Actions, Docker, Postman, VS Code" />
@@ -75,19 +75,19 @@ Desenvolvedora de Software com experiência no desenvolvimento e manutenção de
 
 ---
 
-## 💼 Experiência Profissional
+## 💼 Professional Experience
 
-### 🏍️ Honda — Desenvolvedora de Software
-`2025 — Atual`
+### 🏍️ Honda — Software Developer
+`2025 — Present`
 
-- Desenvolvimento de aplicações web.
-- Desenvolvimento Full Stack.
-- Desenvolvimento de APIs REST.
-- Criação de novas funcionalidades.
-- Manutenção de sistemas e correção de bugs.
-- Deploy em produção.
-- Participação em todo o ciclo de desenvolvimento.
-- Trabalho em equipe utilizando Git.
+- Web application development.
+- Full Stack development.
+- REST API development.
+- Building new features from scratch.
+- System maintenance and bug fixing.
+- Production deployment.
+- Involvement in the entire development lifecycle.
+- Team collaboration using Git.
 
 <p>
   <img src="https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=58A6FF" alt="Java" />
@@ -98,17 +98,17 @@ Desenvolvedora de Software com experiência no desenvolvimento e manutenção de
   <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF" alt="GitHub" />
 </p>
 
-### 🖥️ OFM Systems — Analista e Desenvolvedora
-`1 ano e 3 meses`
+### 🖥️ OFM Systems — Analyst and Developer
+`1 year and 3 months`
 
-- Desenvolvimento de aplicações corporativas.
-- Manutenção de sistemas.
-- Desenvolvimento de APIs.
-- Implementação de novas funcionalidades.
-- Correção de bugs.
-- Integração entre sistemas.
-- Participação em projetos internos.
-- Documentação interna
+- Corporate application development.
+- System maintenance.
+- API development.
+- Implementation of new features.
+- Bug fixing.
+- System integrations.
+- Participation in internal projects.
+- Internal documentation.
 
 <p>
   <img src="https://img.shields.io/badge/Laravel-0D1117?style=for-the-badge&logo=laravel&logoColor=8B949E" alt="Laravel" />
@@ -120,13 +120,13 @@ Desenvolvedora de Software com experiência no desenvolvimento e manutenção de
 
 ---
 
-## 📌 Projetos em Destaque
+## 📌 Featured Projects
 
 <!-- Ajuste os slugs dos repositórios abaixo (tcore, taskflow, utillar, coffee-api) para os nomes reais. -->
 
-### 🏋️ [Tcore](https://github.com/maryanasampaio/tcore) — Sistema completo para Personal Trainers
+### 🏋️ [Tcore](https://github.com/maryanasampaio/tcore) — Complete system for Personal Trainers
 
-Plataforma Full Stack desenvolvida para otimizar a gestão de personal trainers, permitindo o gerenciamento de alunos, treinos, avaliações físicas, agenda e acompanhamento da evolução dos clientes.
+Full Stack platform built to streamline personal trainer management, handling students, workouts, physical assessments, scheduling and client progress tracking.
 
 <p>
   <img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=58A6FF" alt="React" />
@@ -135,13 +135,13 @@ Plataforma Full Stack desenvolvida para otimizar a gestão de personal trainers,
   <img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=58A6FF" alt="PostgreSQL" />
 </p>
 
-**Destaques:** Autenticação de usuários · Dashboard administrativo · Gestão de alunos · Controle de treinos · Agenda · Arquitetura REST · Interface responsiva
+**Highlights:** User authentication · Admin dashboard · Student management · Workout tracking · Scheduling · REST architecture · Responsive UI
 
 <br />
 
-### ✅ [TaskFlow](https://github.com/maryanasampaio/taskflow) — Sistema de Gerenciamento de Tarefas
+### ✅ [TaskFlow](https://github.com/maryanasampaio/taskflow) — Task Management System
 
-Aplicação web desenvolvida para gerenciamento de tarefas, permitindo organizar atividades, acompanhar o progresso e melhorar a produtividade de equipes ou usuários individuais.
+Web application built for task management, allowing users to organize activities, track progress and improve productivity for teams or individuals.
 
 <p>
   <img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=58A6FF" alt="React" />
@@ -150,13 +150,13 @@ Aplicação web desenvolvida para gerenciamento de tarefas, permitindo organizar
   <img src="https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=58A6FF" alt="MySQL" />
 </p>
 
-**Destaques:** CRUD de tarefas · Organização por status · Interface intuitiva · Consumo de API REST
+**Highlights:** Task CRUD · Status-based organization · Intuitive interface · REST API consumption
 
 <br />
 
-### 🏡 [UtilLar](https://github.com/maryanasampaio/utillar) — Marketplace para compra e venda de móveis
+### 🏡 [UtilLar](https://github.com/maryanasampaio/utillar) — Marketplace for buying and selling furniture
 
-Plataforma voltada para a negociação de móveis novos e usados, oferecendo uma experiência simples para cadastro, pesquisa e gerenciamento de anúncios.
+Platform focused on trading new and used furniture, offering a simple experience for listing, searching and managing ads.
 
 <p>
   <img src="https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=58A6FF" alt="Java" />
@@ -164,13 +164,13 @@ Plataforma voltada para a negociação de móveis novos e usados, oferecendo uma
   <img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=58A6FF" alt="PostgreSQL" />
 </p>
 
-**Destaques:** Cadastro de produtos · Busca e filtros · Gerenciamento de anúncios · Interface responsiva · Integração entre frontend e backend
+**Highlights:** Product registration · Search and filters · Ad management · Responsive UI · Frontend/backend integration
 
 <br />
 
-### ☕ [Coffee API](https://github.com/maryanasampaio/coffee-api) — API para gerenciamento de cafeteria
+### ☕ [Coffee API](https://github.com/maryanasampaio/coffee-api) — Coffee shop management API
 
-API REST desenvolvida para gerenciamento de uma cafeteria, permitindo controlar produtos, pedidos e operações do estabelecimento.
+REST API built to manage a coffee shop, handling products, orders and day-to-day operations.
 
 <p>
   <img src="https://img.shields.io/badge/PHP-0D1117?style=for-the-badge&logo=php&logoColor=58A6FF" alt="PHP" />
@@ -179,45 +179,45 @@ API REST desenvolvida para gerenciamento de uma cafeteria, permitindo controlar 
   <img src="https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=58A6FF" alt="MySQL" />
 </p>
 
-**Destaques:** API REST · Operações CRUD · Estrutura organizada · Integração com aplicações cliente
+**Highlights:** REST API · CRUD operations · Well-organized structure · Client application integration
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=maryanasampaio&show_icons=true&count_private=true&include_all_commits=true&locale=pt-br&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E&icon_color=1F6FEB" alt="Estatísticas do GitHub" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maryanasampaio&layout=compact&langs_count=8&locale=pt-br&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E" alt="Linguagens mais usadas" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=maryanasampaio&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E&icon_color=1F6FEB" alt="GitHub Stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maryanasampaio&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E" alt="Top Languages" />
 
 <br /><br />
 
-<img src="https://streak-stats.demolab.com?user=maryanasampaio&locale=pt_BR&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=1F6FEB&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E" alt="Sequência de contribuições" />
+<img src="https://streak-stats.demolab.com?user=maryanasampaio&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=1F6FEB&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E" alt="GitHub Streak" />
 
 <br /><br />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=maryanasampaio&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=F0F6FC&area=true" alt="Gráfico de contribuições" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=maryanasampaio&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=F0F6FC&area=true" alt="Contribution Graph" />
 
 </div>
 
 ---
 
-## 🏆 Conquistas
+## 🏆 Achievements
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=maryanasampaio&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7" alt="Troféus do GitHub" />
+<img src="https://github-profile-trophy.vercel.app/?username=maryanasampaio&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7" alt="GitHub Trophies" />
 
 </div>
 
 ---
 
-## 📈 Atualmente estudando
+## 📈 Currently studying
 
 <p>
   <img src="https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=58A6FF" alt="Docker" />
   <img src="https://img.shields.io/badge/AWS-0D1117?style=for-the-badge&logo=amazonwebservices&logoColor=58A6FF" alt="AWS" />
-  <img src="https://img.shields.io/badge/Microsservi%C3%A7os-0D1117?style=for-the-badge&logo=apachespark&logoColor=58A6FF" alt="Microsserviços" />
+  <img src="https://img.shields.io/badge/Microservices-0D1117?style=for-the-badge&logo=apachespark&logoColor=58A6FF" alt="Microservices" />
 </p>
 <p>
   <img src="https://img.shields.io/badge/Apache%20Kafka-0D1117?style=for-the-badge&logo=apachekafka&logoColor=58A6FF" alt="Kafka" />
@@ -227,27 +227,27 @@ API REST desenvolvida para gerenciamento de uma cafeteria, permitindo controlar 
 
 ---
 
-## 🎯 Objetivo profissional
+## 🎯 Career goal
 
-> Construir aplicações escaláveis e de alta qualidade, contribuindo com soluções modernas utilizando **Java**, **Spring Boot** e arquiteturas bem estruturadas.
-
----
-
-## 💡 Curiosidades
-
-- 💻 Apaixonada por tecnologia.
-- ☕ Sempre aprendendo novas tecnologias.
-- 📚 Estudando Engenharia de Software.
-- 🚀 Buscando evoluir como Backend Engineer.
+> Build scalable, high-quality applications and contribute with modern solutions using **Java**, **Spring Boot** and well-structured architectures.
 
 ---
 
-## 🌎 Contato
+## 💡 A bit more about me
+
+- 💻 Passionate about technology.
+- ☕ Always learning new technologies.
+- 📚 Studying Software Engineering.
+- 🚀 Growing as a Backend Engineer.
+
+---
+
+## 🌎 Contact
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-1F6FEB?style=for-the-badge&logo=linkedin&logoColor=F0F6FC)](https://linkedin.com/in/maryanasampaio)
-[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-58A6FF?style=for-the-badge&logo=vercel&logoColor=0D1117)](https://meu-portfolio-seven-theta.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-58A6FF?style=for-the-badge&logo=vercel&logoColor=0D1117)](https://meu-portfolio-seven-theta.vercel.app)
 [![Gmail](https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=58A6FF)](mailto:maryanacem.star2@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-8B949E?style=for-the-badge&logo=github&logoColor=0D1117)](https://github.com/maryanasampaio)
 
@@ -255,14 +255,14 @@ API REST desenvolvida para gerenciamento de uma cafeteria, permitindo controlar 
 
 ---
 
-## 🐍 Snake Animation
+## 🐍 Contribution Snake
 
 <div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maryanasampaio/maryanasampaio/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maryanasampaio/maryanasampaio/output/github-snake.svg" />
-  <img alt="animação da cobra consumindo os commits" src="https://raw.githubusercontent.com/maryanasampaio/maryanasampaio/output/github-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/maryanasampaio/maryanasampaio/output/github-snake.svg" />
 </picture>
 
 </div>
