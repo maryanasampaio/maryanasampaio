@@ -1,19 +1,26 @@
 <!--
   Banner: gerado dinamicamente com gradiente azul + preto (tema GitHub Dark).
   Se você criar um banner personalizado (PNG/SVG), salve em ./assets/banner.png
-  e troque a <img> abaixo por: <img src="./assets/banner.png" width="100%" alt="Maryana Sampaio - Software Developer" />
+  e troque a <img> abaixo por: <img src="./assets/banner.png" width="100%" alt="Maryana Sampaio - Desenvolvedora de Software" />
 -->
 <div align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:1F6FEB,100:58A6FF&height=210&section=header&text=Maryana%20Sampaio&fontSize=52&fontColor=F0F6FC&fontAlignY=34&animation=fadeIn&desc=Software%20Developer%20%7C%20Java%20%E2%80%A2%20Spring%20Boot%20%E2%80%A2%20React%20%E2%80%A2%20TypeScript&descSize=17&descAlignY=54"
-    alt="Maryana Sampaio — Software Developer"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:1F6FEB,100:58A6FF&height=210&section=header&text=Maryana%20Sampaio&fontSize=52&fontColor=F0F6FC&fontAlignY=34&animation=fadeIn&desc=Desenvolvedora%20de%20Software%20%7C%20Java%20%E2%80%A2%20Spring%20Boot%20%E2%80%A2%20React%20%E2%80%A2%20TypeScript&descSize=17&descAlignY=54"
+    alt="Maryana Sampaio — Desenvolvedora de Software"
   />
 </div>
 
 <div align="center">
 
+[![English](https://img.shields.io/badge/🇺🇸_English-0D1117?style=for-the-badge)](./README.md)
+[![Português](https://img.shields.io/badge/🇧🇷_Português-1F6FEB?style=for-the-badge)](./README.pt-BR.md)
+
+</div>
+
+<div align="center">
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-1F6FEB?style=for-the-badge&logo=linkedin&logoColor=F0F6FC)](https://linkedin.com/in/maryanasampaio)
-[![Portfolio](https://img.shields.io/badge/Portfolio-58A6FF?style=for-the-badge&logo=vercel&logoColor=0D1117)](https://meu-portfolio-seven-theta.vercel.app)
+[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-58A6FF?style=for-the-badge&logo=vercel&logoColor=0D1117)](https://meu-portfolio-seven-theta.vercel.app)
 [![Gmail](https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=58A6FF)](mailto:maryanacem.star2@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-8B949E?style=for-the-badge&logo=github&logoColor=0D1117)](https://github.com/maryanasampaio)
 
@@ -21,24 +28,24 @@
 
 ---
 
-## Hi, I'm Maryana Sampaio 👋
+## Olá, eu sou a Maryana Sampaio 👋
 
-Software Developer • Building scalable web applications with **Java**, **Spring Boot** and modern front-end stacks.
-
----
-
-## 💼 About me
-
-Software Developer with experience in developing and maintaining web applications, working across every stage of the development cycle — from implementation to production deployment. I'm passionate about building scalable applications with **Java** and **Spring Boot**, and I also work with front-end technologies such as **React** and **Angular**. Currently pursuing a **Software Engineering** degree, always looking to learn new technologies and development best practices.
-
-- 🏢 Software Developer at **Honda**
-- 🎓 Studying **Software Engineering**
-- 🚀 Focused on **Backend Engineering** and scalable architectures
-- 📫 Reach me at **maryanacem.star2@gmail.com**
+Desenvolvedora de Software • Construindo aplicações web escaláveis com **Java**, **Spring Boot** e stacks modernas de front-end.
 
 ---
 
-## 🚀 Tech Stack
+## 💼 Sobre mim
+
+Desenvolvedora de Software com experiência no desenvolvimento e manutenção de aplicações web, atuando em todas as etapas do ciclo de desenvolvimento, desde a implementação até a publicação em produção. Tenho interesse em construir aplicações escaláveis utilizando **Java** e **Spring Boot**, além de experiência com tecnologias Front-end como **React** e **Angular**. Atualmente curso **Engenharia de Software** e estou sempre buscando aprender novas tecnologias e boas práticas de desenvolvimento.
+
+- 🏢 Desenvolvedora de Software na **Honda**
+- 🎓 Cursando **Engenharia de Software**
+- 🚀 Focada em **Backend Engineering** e arquiteturas escaláveis
+- 📫 Contato: **maryanacem.star2@gmail.com**
+
+---
+
+## 🚀 Tecnologias
 
 **Backend**
 
@@ -52,7 +59,7 @@ Software Developer with experience in developing and maintaining web application
   <img src="https://skillicons.dev/icons?i=react,angular,ts,js,html,css,tailwind&theme=dark" alt="React, Angular, TypeScript, JavaScript, HTML5, CSS3, Tailwind CSS" />
 </p>
 
-**Databases**
+**Banco de Dados**
 
 <p>
   <img src="https://skillicons.dev/icons?i=postgres,mysql&theme=dark" alt="PostgreSQL, MySQL" />
@@ -60,7 +67,7 @@ Software Developer with experience in developing and maintaining web application
   <img src="https://img.shields.io/badge/SQL%20Server-1F6FEB?style=for-the-badge&logo=microsoftsqlserver&logoColor=F0F6FC" alt="SQL Server" />
 </p>
 
-**Tools & DevOps**
+**Ferramentas & DevOps**
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,postman,vscode&theme=dark" alt="Git, GitHub, GitHub Actions, Docker, Postman, VS Code" />
@@ -68,19 +75,19 @@ Software Developer with experience in developing and maintaining web application
 
 ---
 
-## 💼 Professional Experience
+## 💼 Experiência Profissional
 
-### 🏍️ Honda — Software Developer
-`2025 — Present`
+### 🏍️ Honda — Desenvolvedora de Software
+`2025 — Atual`
 
-- Web application development.
-- Full Stack development.
-- REST API development.
-- Building new features from scratch.
-- System maintenance and bug fixing.
-- Production deployment.
-- Involvement in the entire development lifecycle.
-- Team collaboration using Git.
+- Desenvolvimento de aplicações web.
+- Desenvolvimento Full Stack.
+- Desenvolvimento de APIs REST.
+- Criação de novas funcionalidades.
+- Manutenção de sistemas e correção de bugs.
+- Deploy em produção.
+- Participação em todo o ciclo de desenvolvimento.
+- Trabalho em equipe utilizando Git.
 
 <p>
   <img src="https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=58A6FF" alt="Java" />
@@ -91,16 +98,16 @@ Software Developer with experience in developing and maintaining web application
   <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF" alt="GitHub" />
 </p>
 
-### 🖥️ OFM Systems — Development Analyst Trainee
-`1 year and 3 months`
+### 🖥️ OFM Systems — Analista de Desenvolvimento Trainee
+`1 ano e 3 meses`
 
-- Corporate application development.
-- System maintenance.
-- API development.
-- Implementation of new features.
-- Bug fixing.
-- System integrations.
-- Participation in internal projects.
+- Desenvolvimento de aplicações corporativas.
+- Manutenção de sistemas.
+- Desenvolvimento de APIs.
+- Implementação de novas funcionalidades.
+- Correção de bugs.
+- Integração entre sistemas.
+- Participação em projetos internos.
 
 <p>
   <img src="https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=8B949E" alt="Java" />
@@ -113,7 +120,7 @@ Software Developer with experience in developing and maintaining web application
 
 ---
 
-## 📌 Featured Projects
+## 📌 Projetos em Destaque
 
 <!--
   Ajuste os nomes dos repositórios abaixo para os slugs reais.
@@ -132,7 +139,7 @@ Software Developer with experience in developing and maintaining web application
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=maryanasampaio&repo=infodesk&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E&icon_color=1F6FEB" alt="InfoDesk" />
 </a>
 <a href="https://github.com/maryanasampaio/portfolio">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=maryanasampaio&repo=portfolio&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E&icon_color=1F6FEB" alt="Portfolio" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=maryanasampaio&repo=portfolio&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E&icon_color=1F6FEB" alt="Portfólio" />
 </a>
 <a href="https://github.com/maryanasampaio/spring-auth-api">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=maryanasampaio&repo=spring-auth-api&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E&icon_color=1F6FEB" alt="Spring Auth API" />
@@ -145,41 +152,41 @@ Software Developer with experience in developing and maintaining web application
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Estatísticas do GitHub
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=maryanasampaio&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E&icon_color=1F6FEB" alt="GitHub Stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maryanasampaio&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E" alt="Top Languages" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=maryanasampaio&show_icons=true&count_private=true&include_all_commits=true&locale=pt-br&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E&icon_color=1F6FEB" alt="Estatísticas do GitHub" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maryanasampaio&layout=compact&langs_count=8&locale=pt-br&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E" alt="Linguagens mais usadas" />
 
 <br /><br />
 
-<img src="https://streak-stats.demolab.com?user=maryanasampaio&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=1F6FEB&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=maryanasampaio&locale=pt_BR&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=1F6FEB&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E" alt="Sequência de contribuições" />
 
 <br /><br />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=maryanasampaio&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=F0F6FC&area=true" alt="Contribution Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=maryanasampaio&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=F0F6FC&area=true" alt="Gráfico de contribuições" />
 
 </div>
 
 ---
 
-## 🏆 Achievements
+## 🏆 Conquistas
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=maryanasampaio&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7" alt="GitHub Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=maryanasampaio&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7" alt="Troféus do GitHub" />
 
 </div>
 
 ---
 
-## 📈 Currently studying
+## 📈 Atualmente estudando
 
 <p>
   <img src="https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=58A6FF" alt="Docker" />
   <img src="https://img.shields.io/badge/AWS-0D1117?style=for-the-badge&logo=amazonwebservices&logoColor=58A6FF" alt="AWS" />
-  <img src="https://img.shields.io/badge/Microservices-0D1117?style=for-the-badge&logo=apachespark&logoColor=58A6FF" alt="Microservices" />
+  <img src="https://img.shields.io/badge/Microsservi%C3%A7os-0D1117?style=for-the-badge&logo=apachespark&logoColor=58A6FF" alt="Microsserviços" />
 </p>
 <p>
   <img src="https://img.shields.io/badge/Apache%20Kafka-0D1117?style=for-the-badge&logo=apachekafka&logoColor=58A6FF" alt="Kafka" />
@@ -189,27 +196,27 @@ Software Developer with experience in developing and maintaining web application
 
 ---
 
-## 🎯 Career goal
+## 🎯 Objetivo profissional
 
-> Build scalable, high-quality applications and contribute with modern solutions using **Java**, **Spring Boot** and well-structured architectures.
-
----
-
-## 💡 A bit more about me
-
-- 💻 Passionate about technology.
-- ☕ Always learning new technologies.
-- 📚 Studying Software Engineering.
-- 🚀 Growing as a Backend Engineer.
+> Construir aplicações escaláveis e de alta qualidade, contribuindo com soluções modernas utilizando **Java**, **Spring Boot** e arquiteturas bem estruturadas.
 
 ---
 
-## 🌎 Contact
+## 💡 Curiosidades
+
+- 💻 Apaixonada por tecnologia.
+- ☕ Sempre aprendendo novas tecnologias.
+- 📚 Estudando Engenharia de Software.
+- 🚀 Buscando evoluir como Backend Engineer.
+
+---
+
+## 🌎 Contato
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-1F6FEB?style=for-the-badge&logo=linkedin&logoColor=F0F6FC)](https://linkedin.com/in/maryanasampaio)
-[![Portfolio](https://img.shields.io/badge/Portfolio-58A6FF?style=for-the-badge&logo=vercel&logoColor=0D1117)](https://meu-portfolio-seven-theta.vercel.app)
+[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-58A6FF?style=for-the-badge&logo=vercel&logoColor=0D1117)](https://meu-portfolio-seven-theta.vercel.app)
 [![Gmail](https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=58A6FF)](mailto:maryanacem.star2@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-8B949E?style=for-the-badge&logo=github&logoColor=0D1117)](https://github.com/maryanasampaio)
 
@@ -217,14 +224,14 @@ Software Developer with experience in developing and maintaining web application
 
 ---
 
-## 🐍 Contribution Snake
+## 🐍 Snake Animation
 
 <div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maryanasampaio/maryanasampaio/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maryanasampaio/maryanasampaio/output/github-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/maryanasampaio/maryanasampaio/output/github-snake.svg" />
+  <img alt="animação da cobra consumindo os commits" src="https://raw.githubusercontent.com/maryanasampaio/maryanasampaio/output/github-snake.svg" />
 </picture>
 
 </div>
