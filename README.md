@@ -139,7 +139,7 @@ Plataforma Full Stack desenvolvida para otimizar a gestão de personal trainers,
 
 <br />
 
-### ✅ [TaskFlow](https://github.com/maryanasampaio/taskflow) — Sistema de Gerenciamento de Tarefas
+### ✅ [TaskFlow](https://github.com/maryanasampaio/gerenciamento_de_tarefas) — Sistema de Gerenciamento de Tarefas
 
 Aplicação web desenvolvida para gerenciamento de tarefas, permitindo organizar atividades, acompanhar o progresso e melhorar a produtividade de equipes ou usuários individuais.
 
@@ -154,7 +154,7 @@ Aplicação web desenvolvida para gerenciamento de tarefas, permitindo organizar
 
 <br />
 
-### 🏡 [UtilLar](https://github.com/maryanasampaio/utillar) — Marketplace para compra e venda de móveis
+### 🏡 [UtilLar](https://github.com/maryanasampaio/product-frontend) — Marketplace para compra e venda de móveis
 
 Plataforma voltada para a negociação de móveis novos e usados, oferecendo uma experiência simples para cadastro, pesquisa e gerenciamento de anúncios.
 
@@ -187,9 +187,6 @@ API REST desenvolvida para gerenciamento de uma cafeteria, permitindo controlar 
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=maryanasampaio&show_icons=true&count_private=true&include_all_commits=true&locale=pt-br&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E&icon_color=1F6FEB" alt="Estatísticas do GitHub" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maryanasampaio&layout=compact&langs_count=8&locale=pt-br&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E" alt="Linguagens mais usadas" />
-
 <br /><br />
 
 <img src="https://streak-stats.demolab.com?user=maryanasampaio&locale=pt_BR&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=1F6FEB&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E" alt="Sequência de contribuições" />
@@ -202,15 +199,6 @@ API REST desenvolvida para gerenciamento de uma cafeteria, permitindo controlar 
 
 ---
 
-## 🏆 Conquistas
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=maryanasampaio&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7" alt="Troféus do GitHub" />
-
-</div>
-
----
 
 ## 📈 Atualmente estudando
 
@@ -220,8 +208,6 @@ API REST desenvolvida para gerenciamento de uma cafeteria, permitindo controlar 
   <img src="https://img.shields.io/badge/Microsservi%C3%A7os-0D1117?style=for-the-badge&logo=apachespark&logoColor=58A6FF" alt="Microsserviços" />
 </p>
 <p>
-  <img src="https://img.shields.io/badge/Apache%20Kafka-0D1117?style=for-the-badge&logo=apachekafka&logoColor=58A6FF" alt="Kafka" />
-  <img src="https://img.shields.io/badge/RabbitMQ-0D1117?style=for-the-badge&logo=rabbitmq&logoColor=58A6FF" alt="RabbitMQ" />
   <img src="https://img.shields.io/badge/CI%2FCD-0D1117?style=for-the-badge&logo=githubactions&logoColor=58A6FF" alt="CI/CD" />
 </p>
 
