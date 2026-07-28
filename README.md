@@ -122,7 +122,6 @@ Desenvolvedora de Software com experiência no desenvolvimento e manutenção de
 
 ## 📌 Projetos em Destaque
 
-<!-- Ajuste os slugs dos repositórios abaixo (tcore, taskflow, utillar, coffee-api) para os nomes reais. -->
 
 ### 🏋️ [Tcore](https://github.com/maryanasampaio/tcore) — Sistema completo para Personal Trainers
 
@@ -132,7 +131,7 @@ Plataforma Full Stack desenvolvida para otimizar a gestão de personal trainers,
   <img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=58A6FF" alt="React" />
   <img src="https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=58A6FF" alt="Java" />
   <img src="https://img.shields.io/badge/Spring%20Boot-0D1117?style=for-the-badge&logo=springboot&logoColor=58A6FF" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=58A6FF" alt="PostgreSQL" />
+ <img src="https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=58A6FF" alt="MySQL" />
 </p>
 
 **Destaques:** Autenticação de usuários · Dashboard administrativo · Gestão de alunos · Controle de treinos · Agenda · Arquitetura REST · Interface responsiva
@@ -141,7 +140,7 @@ Plataforma Full Stack desenvolvida para otimizar a gestão de personal trainers,
 
 ### ✅ [TaskFlow](https://github.com/maryanasampaio/gerenciamento_de_tarefas) — Sistema de Gerenciamento de Tarefas
 
-Aplicação web desenvolvida para gerenciamento de tarefas, permitindo organizar atividades, acompanhar o progresso e melhorar a produtividade de equipes ou usuários individuais.
+Aplicação web desenvolvida para gerenciamento de tarefas, permitindo organizar atividades, acompanhar o progresso e melhorar a produtividade de usuários.
 
 <p>
   <img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=58A6FF" alt="React" />
@@ -154,7 +153,7 @@ Aplicação web desenvolvida para gerenciamento de tarefas, permitindo organizar
 
 <br />
 
-### 🏡 [UtilLar](https://github.com/maryanasampaio/product-frontend) — Marketplace para compra e venda de móveis
+### 🏡 [Util Lar](https://github.com/maryanasampaio/product-frontend) — Sistema de Gerenciamento de Móveis Novos e Usados
 
 Plataforma voltada para a negociação de móveis novos e usados, oferecendo uma experiência simples para cadastro, pesquisa e gerenciamento de anúncios.
 
