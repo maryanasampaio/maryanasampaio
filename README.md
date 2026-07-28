@@ -5,8 +5,8 @@
 -->
 <div align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:1F6FEB,100:58A6FF&height=210&section=header&text=Maryana%20Sampaio&fontSize=52&fontColor=F0F6FC&fontAlignY=34&animation=fadeIn&desc=Desenvolvedora%20de%20Software%20%7C%20Java%20%E2%80%A2%20Spring%20Boot%20%E2%80%A2%20React%20%E2%80%A2%20TypeScript&descSize=17&descAlignY=54"
-    alt="Maryana Sampaio — Desenvolvedora de Software"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:1F6FEB,100:58A6FF&height=210&section=header&text=Maryana%20Sampaio&fontSize=52&fontColor=F0F6FC&fontAlignY=34&animation=fadeIn&desc=Desenvolvedora%20Full%20Stack%20%7C%20Java%20%E2%80%A2%20Spring%20Boot%20%E2%80%A2%20React%20%E2%80%A2%20Angular%20%E2%80%A2%20Seguran%C3%A7a&descSize=17&descAlignY=54"
+    alt="Maryana Sampaio — Desenvolvedora Full Stack"
   />
 </div>
 
@@ -30,17 +30,18 @@
 
 ## Olá, eu sou a Maryana Sampaio 👋
 
-Desenvolvedora de Software • Construindo aplicações web escaláveis com **Java**, **Spring Boot** e stacks modernas de front-end.
+Desenvolvedora **Full Stack** • Do banco de dados à interface, construindo aplicações web escaláveis e seguras.
 
 ---
 
 ## 💼 Sobre mim
 
-Desenvolvedora de Software com experiência no desenvolvimento e manutenção de aplicações web, atuando em todas as etapas do ciclo de desenvolvimento, desde a implementação até a publicação em produção. Tenho interesse em construir aplicações escaláveis utilizando **Java** e **Spring Boot**, além de experiência com tecnologias Front-end como **React** e **Angular**. Atualmente curso **Engenharia de Software** e estou sempre buscando aprender novas tecnologias e boas práticas de desenvolvimento.
+Desenvolvedora **Full Stack** com experiência no desenvolvimento e manutenção de aplicações web, atuando em **todas as etapas do ciclo de desenvolvimento** — modelagem de dados, construção de APIs REST, desenvolvimento das interfaces, testes e publicação em produção. No back-end trabalho com **Java** e **Spring Boot**; no front-end, com **React**, **Angular** e **TypeScript**. Trato **segurança como parte do desenvolvimento**, aplicando autenticação e autorização, controle de acesso por perfil, validação de dados e proteção contra as vulnerabilidades mais comuns em aplicações web. Atualmente curso **Engenharia de Software** e estou sempre buscando aprender novas tecnologias e boas práticas de desenvolvimento.
 
-- 🏢 Desenvolvedora de Software na **Honda**
+- 🏢 Desenvolvedora Full Stack na **Honda**
 - 🎓 Cursando **Engenharia de Software**
-- 🚀 Focada em **Backend Engineering** e arquiteturas escaláveis
+- 🔗 Atuação ponta a ponta: **Back-end · Front-end · Banco de dados · Deploy**
+- 🔐 Foco em **segurança**, arquitetura limpa e aplicações escaláveis
 - 📫 Contato: **maryanacem.star2@gmail.com**
 
 ---
@@ -67,6 +68,17 @@ Desenvolvedora de Software com experiência no desenvolvimento e manutenção de
   <img src="https://img.shields.io/badge/SQL%20Server-1F6FEB?style=for-the-badge&logo=microsoftsqlserver&logoColor=F0F6FC" alt="SQL Server" />
 </p>
 
+**Segurança**
+
+<!-- Remova os badges de tecnologias que você ainda não utilizou. -->
+<p>
+  <img src="https://img.shields.io/badge/Spring%20Security-0D1117?style=for-the-badge&logo=springsecurity&logoColor=58A6FF" alt="Spring Security" />
+  <img src="https://img.shields.io/badge/JWT-0D1117?style=for-the-badge&logo=jsonwebtokens&logoColor=58A6FF" alt="JWT" />
+  <img src="https://img.shields.io/badge/OAuth%202.0-0D1117?style=for-the-badge&logo=auth0&logoColor=58A6FF" alt="OAuth 2.0" />
+</p>
+
+Autenticação e autorização · Controle de acesso por perfil (RBAC) · Criptografia de senhas · Validação de dados · Boas práticas OWASP
+
 **Ferramentas & DevOps**
 
 <p>
@@ -84,6 +96,7 @@ Desenvolvedora de Software com experiência no desenvolvimento e manutenção de
 - Desenvolvimento Full Stack.
 - Desenvolvimento de APIs REST.
 - Criação de novas funcionalidades.
+- Implementação de autenticação, autorização e boas práticas de segurança.
 - Manutenção de sistemas e correção de bugs.
 - Deploy em produção.
 - Participação em todo o ciclo de desenvolvimento.
@@ -214,16 +227,17 @@ API REST desenvolvida para gerenciamento de uma cafeteria, permitindo controlar 
 
 ## 🎯 Objetivo profissional
 
-> Construir aplicações escaláveis e de alta qualidade, contribuindo com soluções modernas utilizando **Java**, **Spring Boot** e arquiteturas bem estruturadas.
+> Construir aplicações **Full Stack** escaláveis, seguras e de alta qualidade, atuando de ponta a ponta — do modelo de dados à interface — com arquiteturas bem estruturadas e segurança aplicada desde o início do projeto.
 
 ---
 
 ## 💡 Curiosidades
 
 - 💻 Apaixonada por tecnologia.
-- ☕ Sempre aprendendo novas tecnologias.
+- 🔄 Gosto de atuar nas duas pontas: back-end e front-end.
+- 🔐 Interessada em segurança de aplicações.
 - 📚 Estudando Engenharia de Software.
-- 🚀 Buscando evoluir como Backend Engineer.
+- 🚀 Buscando evoluir como Full Stack Engineer.
 
 ---
 

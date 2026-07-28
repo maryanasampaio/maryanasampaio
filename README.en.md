@@ -5,8 +5,8 @@
 -->
 <div align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:1F6FEB,100:58A6FF&height=210&section=header&text=Maryana%20Sampaio&fontSize=52&fontColor=F0F6FC&fontAlignY=34&animation=fadeIn&desc=Software%20Developer%20%7C%20Java%20%E2%80%A2%20Spring%20Boot%20%E2%80%A2%20React%20%E2%80%A2%20TypeScript&descSize=17&descAlignY=54"
-    alt="Maryana Sampaio — Software Developer"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:1F6FEB,100:58A6FF&height=210&section=header&text=Maryana%20Sampaio&fontSize=52&fontColor=F0F6FC&fontAlignY=34&animation=fadeIn&desc=Full%20Stack%20Developer%20%7C%20Java%20%E2%80%A2%20Spring%20Boot%20%E2%80%A2%20React%20%E2%80%A2%20Angular%20%E2%80%A2%20Security&descSize=17&descAlignY=54"
+    alt="Maryana Sampaio — Full Stack Developer"
   />
 </div>
 
@@ -30,17 +30,18 @@
 
 ## Hi, I'm Maryana Sampaio 👋
 
-Software Developer • Building scalable web applications with **Java**, **Spring Boot** and modern front-end stacks.
+**Full Stack** Developer • From the database to the interface, building scalable and secure web applications.
 
 ---
 
 ## 💼 About me
 
-Software Developer with experience in developing and maintaining web applications, working across every stage of the development cycle — from implementation to production deployment. I'm passionate about building scalable applications with **Java** and **Spring Boot**, and I also work with front-end technologies such as **React** and **Angular**. Currently pursuing a **Software Engineering** degree, always looking to learn new technologies and development best practices.
+**Full Stack** Developer with experience in building and maintaining web applications, working across **every stage of the development cycle** — data modeling, REST API design, interface development, testing and production deployment. On the back end I work with **Java** and **Spring Boot**; on the front end, with **React**, **Angular** and **TypeScript**. I treat **security as part of development**, applying authentication and authorization, role-based access control, data validation and protection against the most common web application vulnerabilities. Currently pursuing a **Software Engineering** degree, always looking to learn new technologies and development best practices.
 
-- 🏢 Software Developer at **Honda**
+- 🏢 Full Stack Developer at **Honda**
 - 🎓 Studying **Software Engineering**
-- 🚀 Focused on **Backend Engineering** and scalable architectures
+- 🔗 End-to-end work: **Back end · Front end · Databases · Deployment**
+- 🔐 Focused on **security**, clean architecture and scalable applications
 - 📫 Reach me at **maryanacem.star2@gmail.com**
 
 ---
@@ -67,6 +68,17 @@ Software Developer with experience in developing and maintaining web application
   <img src="https://img.shields.io/badge/SQL%20Server-1F6FEB?style=for-the-badge&logo=microsoftsqlserver&logoColor=F0F6FC" alt="SQL Server" />
 </p>
 
+**Security**
+
+<!-- Remova os badges de tecnologias que você ainda não utilizou. -->
+<p>
+  <img src="https://img.shields.io/badge/Spring%20Security-0D1117?style=for-the-badge&logo=springsecurity&logoColor=58A6FF" alt="Spring Security" />
+  <img src="https://img.shields.io/badge/JWT-0D1117?style=for-the-badge&logo=jsonwebtokens&logoColor=58A6FF" alt="JWT" />
+  <img src="https://img.shields.io/badge/OAuth%202.0-0D1117?style=for-the-badge&logo=auth0&logoColor=58A6FF" alt="OAuth 2.0" />
+</p>
+
+Authentication and authorization · Role-based access control (RBAC) · Password hashing · Data validation · OWASP best practices
+
 **Tools & DevOps**
 
 <p>
@@ -77,13 +89,14 @@ Software Developer with experience in developing and maintaining web application
 
 ## 💼 Professional Experience
 
-### 🏍️ Honda — Software Developer
+### 🏍️ Honda — Full Stack Developer
 `2025 — Present`
 
 - Web application development.
 - Full Stack development.
 - REST API development.
 - Building new features from scratch.
+- Implementation of authentication, authorization and security best practices.
 - System maintenance and bug fixing.
 - Production deployment.
 - Involvement in the entire development lifecycle.
@@ -122,8 +135,6 @@ Software Developer with experience in developing and maintaining web application
 
 ## 📌 Featured Projects
 
-<!-- Ajuste os slugs dos repositórios abaixo (tcore, taskflow, utillar, coffee-api) para os nomes reais. -->
-
 ### 🏋️ [Tcore](https://github.com/maryanasampaio/tcore) — Complete system for Personal Trainers
 
 Full Stack platform built to streamline personal trainer management, handling students, workouts, physical assessments, scheduling and client progress tracking.
@@ -132,16 +143,16 @@ Full Stack platform built to streamline personal trainer management, handling st
   <img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=58A6FF" alt="React" />
   <img src="https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=58A6FF" alt="Java" />
   <img src="https://img.shields.io/badge/Spring%20Boot-0D1117?style=for-the-badge&logo=springboot&logoColor=58A6FF" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=58A6FF" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=58A6FF" alt="MySQL" />
 </p>
 
 **Highlights:** User authentication · Admin dashboard · Student management · Workout tracking · Scheduling · REST architecture · Responsive UI
 
 <br />
 
-### ✅ [TaskFlow](https://github.com/maryanasampaio/taskflow) — Task Management System
+### ✅ [TaskFlow](https://github.com/maryanasampaio/gerenciamento_de_tarefas) — Task Management System
 
-Web application built for task management, allowing users to organize activities, track progress and improve productivity for teams or individuals.
+Web application built for task management, allowing users to organize activities, track progress and improve their productivity.
 
 <p>
   <img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=58A6FF" alt="React" />
@@ -154,7 +165,7 @@ Web application built for task management, allowing users to organize activities
 
 <br />
 
-### 🏡 [UtilLar](https://github.com/maryanasampaio/utillar) — Marketplace for buying and selling furniture
+### 🏡 [Util Lar](https://github.com/maryanasampaio/product-frontend) — Management system for new and used furniture
 
 Platform focused on trading new and used furniture, offering a simple experience for listing, searching and managing ads.
 
@@ -187,9 +198,6 @@ REST API built to manage a coffee shop, handling products, orders and day-to-day
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=maryanasampaio&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E&icon_color=1F6FEB" alt="GitHub Stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maryanasampaio&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E" alt="Top Languages" />
-
 <br /><br />
 
 <img src="https://streak-stats.demolab.com?user=maryanasampaio&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=1F6FEB&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E" alt="GitHub Streak" />
@@ -197,16 +205,6 @@ REST API built to manage a coffee shop, handling products, orders and day-to-day
 <br /><br />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=maryanasampaio&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=F0F6FC&area=true" alt="Contribution Graph" />
-
-</div>
-
----
-
-## 🏆 Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=maryanasampaio&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7" alt="GitHub Trophies" />
 
 </div>
 
@@ -220,8 +218,6 @@ REST API built to manage a coffee shop, handling products, orders and day-to-day
   <img src="https://img.shields.io/badge/Microservices-0D1117?style=for-the-badge&logo=apachespark&logoColor=58A6FF" alt="Microservices" />
 </p>
 <p>
-  <img src="https://img.shields.io/badge/Apache%20Kafka-0D1117?style=for-the-badge&logo=apachekafka&logoColor=58A6FF" alt="Kafka" />
-  <img src="https://img.shields.io/badge/RabbitMQ-0D1117?style=for-the-badge&logo=rabbitmq&logoColor=58A6FF" alt="RabbitMQ" />
   <img src="https://img.shields.io/badge/CI%2FCD-0D1117?style=for-the-badge&logo=githubactions&logoColor=58A6FF" alt="CI/CD" />
 </p>
 
@@ -229,16 +225,17 @@ REST API built to manage a coffee shop, handling products, orders and day-to-day
 
 ## 🎯 Career goal
 
-> Build scalable, high-quality applications and contribute with modern solutions using **Java**, **Spring Boot** and well-structured architectures.
+> Build scalable, secure and high-quality **Full Stack** applications, working end to end — from the data model to the interface — with well-structured architectures and security applied from the very start of the project.
 
 ---
 
 ## 💡 A bit more about me
 
 - 💻 Passionate about technology.
-- ☕ Always learning new technologies.
+- 🔄 I enjoy working on both ends: back end and front end.
+- 🔐 Interested in application security.
 - 📚 Studying Software Engineering.
-- 🚀 Growing as a Backend Engineer.
+- 🚀 Growing as a Full Stack Engineer.
 
 ---
 
